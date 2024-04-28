@@ -28,16 +28,16 @@ sudo ./allow-usb.sh
 Aucune installation n'est requise. Téléchargez simplement le script et assurez-vous qu'il est exécutable.
 
 ```bash
-chmod +x usbguard-checker.sh
+chmod +x allow-usb.sh
 ```
 ## Exemples
 
 ```bash
-sudo ./usbguard-checker.sh
+sudo ./allow-usb.sh
 ```
 
 ```bash
-sudo ./usbguard-checker.sh --test
+sudo ./allow-usb.sh --test
 ```
 
 ## Contributions
